@@ -15,6 +15,7 @@ CreateThread(function()
         local ped = PlayerPedId()
         if GetPedArmour(ped) > 0 and usedItem == false then
             TriggerServerEvent("Ban")
+            SetPedArmour(ped, 0)
         elseif GetPedArmour(ped) == 0 then
             usedItem = false
         end
