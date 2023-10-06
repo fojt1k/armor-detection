@@ -1,6 +1,5 @@
 # Simple Armor Give Detection Resource for FiveM
 
-
 ## Description
 
 This resource provides a straightforward solution to detect and prevent players from cheating by giving themselves armor in a FiveM server. It is designed to be easy to install and use, making it an essential tool for maintaining fair gameplay in your server.
@@ -25,12 +24,12 @@ Once installed, this resource will actively monitor and prevent players from che
 
 - Creator: [dyny_](https://github.com/DYNYXD?tab=repositories)
 
-
 ## Support
 
 If you encounter any issues or have questions about this resource, please create an issue on the [GitHub repository](https://github.com/fojt1k/armor-detection/issues).
 
+For additional support or discussions, join our [Discord server](https://discord.gg/gUUCGkv3TF).
+
 ---
 
 **Note:** This resource is developed and maintained by [dyny_](https://github.com/DYNYXD?tab=repositories). Its simplicity makes it an ideal choice for server administrators looking to prevent armor cheating effectively.
-
